@@ -9,11 +9,11 @@
 
 #### Enhancements:
 
-- [**enhancement**] Adding song file. [#6](https://github.com/monicarib/testing-gren-release-notes/pull/6)
+- [#6](https://github.com/monicarib/testing-gren-release-notes/pull/6) Adding song file.
 
 #### Bug Fixes:
 
-- [**bug**] Fixing name. [#7](https://github.com/monicarib/testing-gren-release-notes/pull/7)
+- [#7](https://github.com/monicarib/testing-gren-release-notes/pull/7) Fixing name.
 
 ---
 
