@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.2.3.r (07/07/2020)
+- [**closed**] Fixing pipeline. [#12](https://github.com/monicarib/testing-gren-release-notes/pull/12)
+
+---
+
+## v1.2.3.q (07/07/2020)
+- [**closed**] Removing commiter name. [#11](https://github.com/monicarib/testing-gren-release-notes/pull/11)
+
+---
+
 ## v1.2.3.p (07/07/2020)
 - [**closed**] Commiting CHANGELOG.md. [#10](https://github.com/monicarib/testing-gren-release-notes/pull/10)
 
