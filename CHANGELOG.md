@@ -1,5 +1,10 @@
 # Changelog
 
+## new-tag-rc (07/07/2020)
+*No changelog for this release.*
+
+---
+
 ## v1.2.3.s (07/07/2020)
 - [**closed**] All tags. [#13](https://github.com/monicarib/testing-gren-release-notes/pull/13)
 
