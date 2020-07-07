@@ -27,3 +27,15 @@
          npm install github-release-notes -g
          gren release --override
          gren changelog --override
+
+     - name: Commit files
+       run: |
+         git config --local user.name "monicarib"
+         git add CHANGELOG.md
+         git commit -m "Updating CHANGELOG.md"
+
+     - name: Push changes
+       uses: ad-m/github-push-action@master
+       with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         force: true
