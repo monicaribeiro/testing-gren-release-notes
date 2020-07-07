@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="337ee128-9410-45f8-8463-006a6081e4df" name="Default Changelist" comment="" />
+    <list default="true" id="337ee128-9410-45f8-8463-006a6081e4df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YdJPkRKUFgLRoIWF26ueRfzIgE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,7 +25,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beagle-tmdb-backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583266515805</updated>
       <workItem from="1583266517731" duration="11000" />
+      <workItem from="1594149441700" duration="297000" />
     </task>
     <servers />
   </component>
@@ -40,9 +51,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583266527369">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="263" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594149652569">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583266527369" />
+    <state x="263" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1594149652569" />
   </component>
 </project>
