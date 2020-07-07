@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.3.s (07/07/2020)
+- [**closed**] All tags. [#13](https://github.com/monicarib/testing-gren-release-notes/pull/13)
+
+---
+
 ## v1.2.3.r (07/07/2020)
 - [**closed**] Fixing pipeline. [#12](https://github.com/monicarib/testing-gren-release-notes/pull/12)
 
