@@ -25,5 +25,5 @@
          GREN_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        run: |
          npm install github-release-notes -g
-         gren release --tags=${GITHUB_REF/refs\/tags\//} --override
+         gren release --override
          gren changelog --override
