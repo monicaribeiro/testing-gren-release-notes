@@ -28,13 +28,12 @@
          gren release --override
          gren changelog --override
 
-     - name: Commit files
+     - name: Commiting CHANGELOG.md
        run: |
-         git config --local user.name "monicarib"
          git add CHANGELOG.md
          git commit -m "Updating CHANGELOG.md"
 
-     - name: Push changes
+     - name: Pushing changes
        uses: ad-m/github-push-action@master
        with:
          github_token: ${{ secrets.GITHUB_TOKEN }}
